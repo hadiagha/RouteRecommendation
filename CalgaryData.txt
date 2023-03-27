@@ -1,0 +1,30 @@
+
+Public Trees
+https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa
+
+Historical Air Quality
+https://data.calgary.ca/Environment/Historical-Air-Quality/uqjm-jxgp
+
+1:5 Flood Map (20% chance of occurring in any year)
+https://data.calgary.ca/Environment/1-5-Flood-Map-20-chance-of-occurring-in-any-year-/iyqi-dvvj
+
+Natural Areas
+https://data.calgary.ca/Environment/Natural-Areas/icxc-6yk3
+
+Heritage Trees in Calgary
+https://data.calgary.ca/Environment/Heritage-Trees-in-Calgary/qmxc-agq2
+
+Current Year Rainfall
+https://data.calgary.ca/Environment/Current-Year-Rainfall/c7sr-67sr
+
+Regulatory Flood Map (Bylaw Flood Hazard)
+https://data.calgary.ca/Environment/Regulatory-Flood-Map-Bylaw-Flood-Hazard-/tp6q-x2v7
+
+Travel Times
+https://data.calgary.ca/Transportation-Transit/Travel-Times/aeb8-fh2w
+
+RTM Road Network Scenarios
+https://data.calgary.ca/Transportation-Transit/RTM-Road-Network-Scenarios/gvs2-78b3
+
+Calagary Weather data
+https://acis.alberta.ca/weather-data-viewer.jsp
